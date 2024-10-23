@@ -1,27 +1,30 @@
-### 변경 사항
-이 PR에 어떤 변경이 이루어졌는지 간략하게 설명해 주세요
-
----
-### 관련 이슈
-- 이 PR이 해결하는 관련 이슈 번호를 적어 주세요.
-예: `#123`
-
----
-
-### 변경 이유
-- 왜 이러한 변경이 필요했는지 설명해 주세요. 기존 문제나 기능 개선 이유를 포함해 주세요.
-
----
-
-### 테스트 방법
-- 이 PR이 정상적으로 작동하는지 테스트하는 방법을 기술해 주세요.
-- [ ] 테스트 케이스 추가
-- [ ] 기능 동작 테스트
-- [ ] 문서화 수정
+## PR 유형
+- [ ] Bugfix
+- [ ] Feature
+- [ ] Code style update (formatting, local variables)
+- [ ] Refactoring (no functional changes, no api changes)
+- [ ] Build related changes
+- [ ] CI related changes
+- [ ] Documentation content changes
+- [ ] angular.io application / infrastructure changes
+- [ ] Other... Please describe:
 
 ---
 
-### 영향 범위
-- 이 변경 사항이 다른 모듈이나 기능에 어떤 영향을 미칠 수 있는지 설명해 주세요.
+## 📌 과제 설명
+
 
 ---
+
+## 🛠 요구 사항과 구현 내용
+
+
+---
+
+## ✅ PR 포인트 & 궁금한 점
+
+
+---
+
+## Related issues
+
